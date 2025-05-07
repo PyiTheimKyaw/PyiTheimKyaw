@@ -21,17 +21,21 @@
 
    ---
 
-- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FPADC%2Fpadc_logo.png?alt=media&token=4ff43a55-59f3-424e-8789-485e98077853"/>  [Padc.com.mm](https://padc.mm-digital-solutions.com/)
+- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FPADC%2Fpadc_logo.png?alt=media&token=4ff43a55-59f3-424e-8789-485e98077853"/>  [Padc.com.mm](https://pyitheimkyaw.vercel.app/#/projectDetails/2/PADC.com.mm)
   - A learning platform for developers with different courses, classes and modules.Unfortunately, we needed to stop the efforts for this product in June 2021 to save bandwidth during the crisis in Myanmar. We ended up shutting the product down together with the base company.<br><br>
-    <a href="https://play.google.com/store/apps/details?id=com.padcmyanmar.mm&pcampaignid=web_share"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a>
+    <a href="https://play.google.com/store/apps/details?id=com.padcmyanmar.mm&pcampaignid=web_share"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a> <a href="https://padc.mm-digital-solutions.com/#/classes"><img width="25" height="25" src="https://img.icons8.com/fluency/50/domain.png" alt="domain--v1"/></a>
 
   ---
-- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FPADC%2Fpadc_logo.png?alt=media&token=4ff43a55-59f3-424e-8789-485e98077853"/>  [Healtppy (Doctor & Patient)](https://pyitheimkyaw.vercel.app/#/projectDetails/3/HealtppyTelemedicine)
+- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2Fhealtppy%2Fhealtppy_logo.png?alt=media&token=b8191a96-4317-499d-8a93-9004806bb721"/>  [Healtppy (Doctor & Patient)](https://pyitheimkyaw.vercel.app/#/projectDetails/3/HealtppyTelemedicine)
   - Telemedicine platform with native video consult integration, prescription uploads, and scheduling systems.<br><br>
     <a href="https://play.google.com/store/apps/datasafety?id=com.healthppy.doctor&hl=ja&gl=US"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a> <a href="https://apps.apple.com/mm/app/healtppy-doctor/id1586276589"><img width="25" height="25" src="https://img.icons8.com/color/48/apple-app-store--v3.png" alt="apple-app-store--v3"/></a>
 
   ---
-    
+- [Digi-Zaay multi-vendoer](https://pyitheimkyaw.vercel.app/#/projectDetails/4/Digi-Zaaymulti-vendoer)
+  - A cross-platform solution built with Android Native, iOS Native, and Flutter, supporting multiple stores and vendors, with three customizable themes for store owners to choose from.Unfortunately, we needed to shut down the product in Sept 2022, together with the base company, because the existing merchants stopped operating e-commerce due to the crisis & instabilities in Myanmar.<br><br>
+
+  ---
+- More View on [Portfolio](https://pyitheimkyaw.vercel.app/)
   
 ---
 
