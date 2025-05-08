@@ -35,7 +35,7 @@
   - A cross-platform solution built with Android Native, iOS Native, and Flutter, supporting multiple stores and vendors, with three customizable themes for store owners to choose from.Unfortunately, we needed to shut down the product in Sept 2022, together with the base company, because the existing merchants stopped operating e-commerce due to the crisis & instabilities in Myanmar.<br><br>
 
   ---
-- More View on [Portfolio](https://pyitheimkyaw.vercel.app/)
+- View more on [Portfolio](https://pyitheimkyaw.vercel.app/)
   
 ---
 
