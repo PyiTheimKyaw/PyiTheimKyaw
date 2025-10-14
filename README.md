@@ -16,6 +16,13 @@
 
 ### 💪 What I've Built
 
+- <img width="20" height="20" src="[https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2Fpathway%2Fapp_logo.png?alt=media&token=69c2b031-4373-4ef9-8a4f-1a8e26956f58](https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FWeDay%2Fweday_logo.webp?alt=media&token=44db3022-a856-4568-b403-ee8a07c06a6c)"/>  [WeDay - Social Commerce]([https://pyitheimkyaw.vercel.app/#/projectDetails/0/PathwayMM](https://pyitheimkyaw.vercel.app/#/projectDetails/0/WeDay))
+  - WeDay is an innovative social media + e-commerce mobile application that unifies creators, shoppers, businesses, advertisers, and delivery services within one ecosystem. Built with Flutter for a seamless cross-platform experience, the app allows users to explore trending topics, engage with interactive content, and shop from a variety of deals — all in one place. It integrates content creation, social interaction, and e-commerce functionalities into a single platform, providing a modern experience for users to connect, share, and purchase effortlessly.
+<br><br>
+    <a href="https://play.google.com/store/apps/details?id=com.markethub.businesscenter&hl=en"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a>
+
+   ---
+
 - <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2Fpathway%2Fapp_logo.png?alt=media&token=69c2b031-4373-4ef9-8a4f-1a8e26956f58"/>  [PathwayMM](https://pyitheimkyaw.vercel.app/#/projectDetails/0/PathwayMM)
   - PathwayMM is an offline-first survey collection app designed for Android and iOS, allowing users to complete surveys without an internet connection. Once online, the app seamlessly syncs collected data to the server, ensuring reliable data gathering in remote areas.<br><br>
     <a href="https://play.google.com/store/apps/details?id=com.pathway.mobile&pcampaignid=web_share"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a>
