@@ -11,46 +11,54 @@
 - 💼 Software Engineer at [WhatIf Solutions](https://www.whatifsolutions.my/) [May 2025 - March 2026]
 - 💼 Senior Mobile Developer at [My Day Thu Kywal](https://www.linkedin.com/company/my-day-thu-kywal/posts/?feedView=all) [July 2024 - Feb 2025]
 - 💼 Senior Mobile Developer at [Infinity Global Solutions](https://www.infinityglobals.com/) [Dec 2023 - July 2024]
-- 💼 Flutter Developer at [MM Digital Solutions](https://www.facebook.com/mmdigitalsolutions) [July 2022 - Nov 2023]
+- 💼 Flutter Developer at [MM Digital Solutions](https://www.facebook.com/mmdigitalsolutions) [July 2021 - Nov 2023]
 ---
 
 ### 💪 What I've Built
 
-- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FWeDay%2Fweday_logo.webp?alt=media&token=44db3022-a856-4568-b403-ee8a07c06a6c"/>  [WeDay - Social Commerce]([https://pyitheimkyaw.vercel.app/#/projectDetails/0/PathwayMM](https://pyitheimkyaw.vercel.app/#/projectDetails/0/WeDay))
+- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FWeDay%2Fweday_logo.webp?alt=media&token=44db3022-a856-4568-b403-ee8a07c06a6c"/>  WeDay - Social Commerce
   - WeDay is an innovative social media + e-commerce mobile application that unifies creators, shoppers, businesses, advertisers, and delivery services within one ecosystem. Built with Flutter for a seamless cross-platform experience, the app allows users to explore trending topics, engage with interactive content, and shop from a variety of deals — all in one place. It integrates content creation, social interaction, and e-commerce functionalities into a single platform, providing a modern experience for users to connect, share, and purchase effortlessly.
 <br><br>
     <a href="https://play.google.com/store/apps/details?id=com.markethub.businesscenter&hl=en"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a><a href="https://apps.apple.com/th/app/weday-social-commerce/id6743930076"><img width="25" height="25" src="https://img.icons8.com/color/48/apple-app-store--v3.png" alt="apple-app-store--v3"/></a>
 
    ---
 
-- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2Fpathway%2Fapp_logo.png?alt=media&token=69c2b031-4373-4ef9-8a4f-1a8e26956f58"/>  [PathwayMM](https://pyitheimkyaw.vercel.app/#/projectDetails/0/PathwayMM)
+- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2Fpathway%2Fapp_logo.png?alt=media&token=69c2b031-4373-4ef9-8a4f-1a8e26956f58"/>  PathwayMM
   - PathwayMM is an offline-first survey collection app designed for Android and iOS, allowing users to complete surveys without an internet connection. Once online, the app seamlessly syncs collected data to the server, ensuring reliable data gathering in remote areas.<br><br>
     <a href="https://play.google.com/store/apps/details?id=com.pathway.mobile&pcampaignid=web_share"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a>
 
    ---
 
-- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FPADC%2Fpadc_logo.png?alt=media&token=4ff43a55-59f3-424e-8789-485e98077853"/>  [Padc.com.mm](https://pyitheimkyaw.vercel.app/#/projectDetails/2/PADC.com.mm)
+  ---
+
+- <img width="20" height="20" src="https://play-lh.googleusercontent.com/3Y55xFD8FXAgxf2_FLMR_373sRf2suC7xqdyz5TAaDl9c4YQkGQ_sm6aR3PelmxK29K9B0de0ieJnNUQ5Aff=w480-h960-rw"/>  Good Jobs App
+  - Good Jobs Application is a digital platform that connects workers and employers. It makes job search, recruitment, workforce management and communication easier and faster. It is easy to find a job and fast to connect with employers.It provides job seekers with the opportunities they want to pursue.It also has a system that allows employers to easily manage their employees.<br><br>
+    <a href="https://play.google.com/store/apps/details?id=com.igs.goodjobs&hl=th"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a><a href="https://apps.apple.com/th/app/good-jobs-app/id6754324285"><img width="25" height="25" src="https://img.icons8.com/color/48/apple-app-store--v3.png" alt="apple-app-store--v3"/></a>
+
+   ---
+
+- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2FPADC%2Fpadc_logo.png?alt=media&token=4ff43a55-59f3-424e-8789-485e98077853"/>  Padc.com.mm
   - A learning platform for developers with different courses, classes and modules.Unfortunately, we needed to stop the efforts for this product in June 2021 to save bandwidth during the crisis in Myanmar. We ended up shutting the product down together with the base company.<br><br>
     <a href="https://play.google.com/store/apps/details?id=com.padcmyanmar.mm&pcampaignid=web_share"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a> <a href="https://padc.mm-digital-solutions.com/#/classes"><img width="25" height="25" src="https://img.icons8.com/fluency/50/domain.png" alt="domain--v1"/></a>
 
   ---
-- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2Fhealtppy%2Fhealtppy_logo.png?alt=media&token=b8191a96-4317-499d-8a93-9004806bb721"/>  [Healtppy (Doctor & Patient)](https://pyitheimkyaw.vercel.app/#/projectDetails/3/HealtppyTelemedicine)
+- <img width="20" height="20" src="https://firebasestorage.googleapis.com/v0/b/portfolio-c2b5f.appspot.com/o/projects%2Fhealtppy%2Fhealtppy_logo.png?alt=media&token=b8191a96-4317-499d-8a93-9004806bb721"/>  Healtppy (Doctor & Patient)
   - Telemedicine platform with native video consult integration, prescription uploads, and scheduling systems.<br><br>
     <a href="https://play.google.com/store/apps/datasafety?id=com.healthppy.doctor&hl=ja&gl=US"><img width="25" height="25" src="https://img.icons8.com/fluency/48/google-play.png" alt="android-os"/></a> <a href="https://apps.apple.com/mm/app/healtppy-doctor/id1586276589"><img width="25" height="25" src="https://img.icons8.com/color/48/apple-app-store--v3.png" alt="apple-app-store--v3"/></a>
 
   ---
-- [Digi-Zaay multi-vendoer](https://pyitheimkyaw.vercel.app/#/projectDetails/4/Digi-Zaaymulti-vendoer)
+- Digi-Zaay multi-vendoer
   - A cross-platform solution built with Android Native, iOS Native, and Flutter, supporting multiple stores and vendors, with three customizable themes for store owners to choose from.Unfortunately, we needed to shut down the product in Sept 2022, together with the base company, because the existing merchants stopped operating e-commerce due to the crisis & instabilities in Myanmar.<br><br>
 
   ---
-- View more on [Portfolio](https://pyitheimkyaw.vercel.app/)
+- View more on [Portfolio](https://pyitheimkyaw.web.app/)
   
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img height="160px" width="48%" src ="https://nirzak-streak-stats.vercel.app/?user=PyiTheimKyaw&theme=react&show_icons=true&hide_border=false&count_private=true">
   <img height="160px" width="48%" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=PyiTheimKyaw&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact">
-</p>
+</p> -->
 
 ---
 
