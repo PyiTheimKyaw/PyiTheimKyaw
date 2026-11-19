@@ -9,8 +9,8 @@
 
 ### 🔥 Experience Highlights
 - 💼 Software Engineer at [WhatIf Solutions](https://www.whatifsolutions.my/) [May 2025 - March 2026]
-- 💼 Senior Mobile Developer at [My Day Thu Kywal](https://www.linkedin.com/company/my-day-thu-kywal/posts/?feedView=all) [July 2024 - Feb 2025]
-- 💼 Senior Mobile Developer at [Infinity Global Solutions](https://www.infinityglobals.com/) [Dec 2023 - July 2024]
+- 💼 Senior Software Developer at [My Day Thu Kywal](https://www.linkedin.com/company/my-day-thu-kywal/posts/?feedView=all) [July 2024 - Feb 2025]
+- 💼 Software Developer at [Infinity Global Solutions](https://www.infinityglobals.com/) [Dec 2023 - July 2024]
 - 💼 Flutter Developer at [MM Digital Solutions](https://www.facebook.com/mmdigitalsolutions) [July 2021 - Nov 2023]
 ---
 
